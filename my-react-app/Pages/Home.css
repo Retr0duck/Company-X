@@ -1,0 +1,25 @@
+body {
+    background-image: url(../src/assets/Bakc.jpg);
+    background-size: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+
+.container {
+    background-color: transparent;
+    width: 400px;
+    /* Ajusta el ancho según tus necesidades */
+    height: 200px;
+    /* Ajusta la altura según tus necesidades */
+    text-align: center;
+    /* Centra el contenido dentro del div */
+    line-height: 200px;
+    /* Centra verticalmente el contenido */
+    font-family: cursive;
+    color: azure;
+    font-size: 600px;
+}
